@@ -1,0 +1,14 @@
+{
+  "name": "stock-predictions-ai-app",
+  "description": "A Vite app to interact with the OpenAI API to get stock predictions",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vite": "latest"
+  },
+  "devDependencies": {}
+}
